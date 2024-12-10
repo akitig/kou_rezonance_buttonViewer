@@ -1,0 +1,9 @@
+/Users/akitig/Main/MediaArt/resonance/button/oscpack/build/CMakeFiles/oscpack.dir
+/Users/akitig/Main/MediaArt/resonance/button/oscpack/build/CMakeFiles/OscUnitTests.dir
+/Users/akitig/Main/MediaArt/resonance/button/oscpack/build/CMakeFiles/OscSendTests.dir
+/Users/akitig/Main/MediaArt/resonance/button/oscpack/build/CMakeFiles/OscReceiveTest.dir
+/Users/akitig/Main/MediaArt/resonance/button/oscpack/build/CMakeFiles/OscDump.dir
+/Users/akitig/Main/MediaArt/resonance/button/oscpack/build/CMakeFiles/SimpleReceive.dir
+/Users/akitig/Main/MediaArt/resonance/button/oscpack/build/CMakeFiles/SimpleSend.dir
+/Users/akitig/Main/MediaArt/resonance/button/oscpack/build/CMakeFiles/edit_cache.dir
+/Users/akitig/Main/MediaArt/resonance/button/oscpack/build/CMakeFiles/rebuild_cache.dir
